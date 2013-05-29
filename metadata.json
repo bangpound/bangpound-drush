@@ -1,0 +1,25 @@
+{
+  "description": "UNKNOWN",
+  "checksums": {
+    "tests/init.pp": "1279c8f0e4578ae7552142a3661aaa40",
+    "manifests/platform.pp": "937882f4d69ed779a961b82723a9988e",
+    "manifests/init.pp": "785b77f5b828133de9c9a9b09fadc17a",
+    "Modulefile": "2796fb869559d9cfa95bfa8cff1d113b",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "README": "b59751257f063667cac5d94c01401e94",
+    "manifests/site.pp": "270c619e03c2235e24e09113f0745316"
+  },
+  "project_page": "UNKNOWN",
+  "summary": "UNKNOWN",
+  "source": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "author": "bangpound",
+  "version": "0.0.1",
+  "name": "bangpound-drush",
+  "types": [
+
+  ],
+  "license": "Apache License, Version 2.0"
+}
